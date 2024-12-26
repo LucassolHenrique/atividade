@@ -1,0 +1,1251 @@
+Codigo;Nome;Categoria;Valor
+PROD00001;Esponja;Limpeza;44,51
+PROD00002;Desinfetante;Limpeza;44,22
+PROD00003;Condicionador;Higiene;16,08
+PROD00004;Pasta de Dente;Higiene;24,76
+PROD00005;Suco;Bebidas;4,97
+PROD00006;Pasta de Dente;Higiene;3,72
+PROD00007;Refrigerante;Bebidas;14,15
+PROD00008;Ch;Bebidas;6,45
+PROD00009;Alface;Produtos Frescos;6,57
+PROD00010;Caf Gelado;Bebidas;4,27
+PROD00011;Macarro;Alimentos;17
+PROD00012;Sabonete;Higiene;21,68
+PROD00013;Arroz;Alimentos;11,96
+PROD00014;Desodorante;Higiene;10,14
+PROD00015;Lustra Mveis;Limpeza;41,5
+PROD00016;Escova de Dente;Higiene;8,46
+PROD00017;Lustra Mveis;Limpeza;10,86
+PROD00018;Shampoo;Higiene;13,39
+PROD00019;Banana;Produtos Frescos;13,26
+PROD00020;Esponja;Limpeza;6,5
+PROD00021;leo;Alimentos;3,01
+PROD00022;Pasta de Dente;Higiene;28,74
+PROD00023;Alface;Produtos Frescos;15,9
+PROD00024;Vinho;Bebidas;13,37
+PROD00025;Pasta de Dente;Higiene;13,34
+PROD00026;Desodorante;Higiene;6,24
+PROD00027;Condicionador;Higiene;26,86
+PROD00028;leo;Alimentos;3,66
+PROD00029;leo;Alimentos;18,13
+PROD00030;Acar;Alimentos;15,15
+PROD00031;Ma;Produtos Frescos;8,82
+PROD00032;leo;Alimentos;7,69
+PROD00033;leo;Alimentos;9,61
+PROD00034;Ma;Produtos Frescos;23,2
+PROD00035;Acar;Alimentos;3,84
+PROD00036;Feijo;Alimentos;17,37
+PROD00037;Caf Gelado;Bebidas;6,76
+PROD00038;Detergente;Limpeza;12,59
+PROD00039;Farinha;Alimentos;10,8
+PROD00040;Feijo;Alimentos;5,79
+PROD00041;Vinho;Bebidas;13,44
+PROD00042;Ch;Bebidas;4,87
+PROD00043;Banana;Produtos Frescos;35,86
+PROD00044;Tomate;Produtos Frescos;12,33
+PROD00045;Desinfetante;Limpeza;7,51
+PROD00046;Escova de Dente;Higiene;11,61
+PROD00047;Lustra Mveis;Limpeza;21,21
+PROD00048;Lustra Mveis;Limpeza;10,75
+PROD00049;Caf;Alimentos;16,66
+PROD00050;Vinho;Bebidas;4,93
+PROD00051;Arroz;Alimentos;10,42
+PROD00052;Ma;Produtos Frescos;11,34
+PROD00053;Acar;Alimentos;4,17
+PROD00054;gua Sanitria;Limpeza;8,72
+PROD00055;Tomate;Produtos Frescos;20,6
+PROD00056;Banana;Produtos Frescos;35,98
+PROD00057;Shampoo;Higiene;21,15
+PROD00058;gua Sanitria;Limpeza;30,73
+PROD00059;Condicionador;Higiene;6,52
+PROD00060;Desinfetante;Limpeza;47,04
+PROD00061;Condicionador;Higiene;22,48
+PROD00062;Carne Bovina;Produtos Frescos;20,21
+PROD00063;Sabo em P;Limpeza;35,87
+PROD00064;Batata;Produtos Frescos;7,23
+PROD00065;leo;Alimentos;16,43
+PROD00066;Acar;Alimentos;3,44
+PROD00067;Tomate;Produtos Frescos;30,46
+PROD00068;Frango;Produtos Frescos;49,16
+PROD00069;Tomate;Produtos Frescos;47,2
+PROD00070;Ch;Bebidas;12,32
+PROD00071;Peixe;Produtos Frescos;38,26
+PROD00072;Feijo;Alimentos;7,38
+PROD00073;Refrigerante;Bebidas;4,53
+PROD00074;Caf;Alimentos;15,94
+PROD00075;Arroz;Alimentos;15,12
+PROD00076;Escova de Dente;Higiene;24,95
+PROD00077;Detergente;Limpeza;22,51
+PROD00078;Carne Bovina;Produtos Frescos;48,87
+PROD00079;leo;Alimentos;19,55
+PROD00080;Suco;Bebidas;9,97
+PROD00081;Feijo;Alimentos;4,95
+PROD00082;Lustra Mveis;Limpeza;48,48
+PROD00083;Ma;Produtos Frescos;14,43
+PROD00084;Carne Bovina;Produtos Frescos;35,54
+PROD00085;Leite;Alimentos;16,9
+PROD00086;Tomate;Produtos Frescos;38,46
+PROD00087;Lustra Mveis;Limpeza;35,01
+PROD00088;Ch;Bebidas;11,93
+PROD00089;Energtico;Bebidas;6,07
+PROD00090;Caf Gelado;Bebidas;12,76
+PROD00091;Batata;Produtos Frescos;28,63
+PROD00092;Sabonete;Higiene;23,82
+PROD00093;Shampoo;Higiene;3,2
+PROD00094;Sabo em P;Limpeza;10,6
+PROD00095;Biscoito;Alimentos;15,22
+PROD00096;leo;Alimentos;5,64
+PROD00097;gua Sanitria;Limpeza;38,85
+PROD00098;Escova de Dente;Higiene;25,26
+PROD00099;Carne Bovina;Produtos Frescos;23,95
+PROD00100;Lustra Mveis;Limpeza;44,44
+PROD00101;Escova de Dente;Higiene;27,8
+PROD00102;Macarro;Alimentos;7,88
+PROD00103;Detergente;Limpeza;33,67
+PROD00104;Shampoo;Higiene;20,49
+PROD00105;gua Sanitria;Limpeza;24,96
+PROD00106;Peixe;Produtos Frescos;33,53
+PROD00107;Ch;Bebidas;13,49
+PROD00108;Alface;Produtos Frescos;46,13
+PROD00109;Macarro;Alimentos;19,46
+PROD00110;Biscoito;Alimentos;19,49
+PROD00111;Biscoito;Alimentos;13,15
+PROD00112;Caf Gelado;Bebidas;3,58
+PROD00113;Alface;Produtos Frescos;11,19
+PROD00114;leo;Alimentos;14,04
+PROD00115;Caf Gelado;Bebidas;6,88
+PROD00116;Banana;Produtos Frescos;28,43
+PROD00117;Lustra Mveis;Limpeza;39,03
+PROD00118;Refrigerante;Bebidas;9,76
+PROD00119;leo;Alimentos;9,45
+PROD00120;Biscoito;Alimentos;9,31
+PROD00121;Esponja;Limpeza;42,28
+PROD00122;Shampoo;Higiene;15,79
+PROD00123;Caf Gelado;Bebidas;10,51
+PROD00124;Tomate;Produtos Frescos;42,37
+PROD00125;Ch;Bebidas;5,96
+PROD00126;Shampoo;Higiene;24,06
+PROD00127;Desinfetante;Limpeza;18,5
+PROD00128;Desinfetante;Limpeza;16,4
+PROD00129;Tomate;Produtos Frescos;45,64
+PROD00130;Sabo em P;Limpeza;22,71
+PROD00131;Caf;Alimentos;15,33
+PROD00132;Leite;Alimentos;6,72
+PROD00133;gua Sanitria;Limpeza;12,08
+PROD00134;Acar;Alimentos;8,11
+PROD00135;Vinho;Bebidas;8,87
+PROD00136;Tomate;Produtos Frescos;10,06
+PROD00137;Alface;Produtos Frescos;19,71
+PROD00138;Vinho;Bebidas;6,48
+PROD00139;Escova de Dente;Higiene;29,85
+PROD00140;Acar;Alimentos;13,24
+PROD00141;Alface;Produtos Frescos;13,01
+PROD00142;Feijo;Alimentos;4,1
+PROD00143;Farinha;Alimentos;12,91
+PROD00144;Acar;Alimentos;19,03
+PROD00145;Vinho;Bebidas;14,93
+PROD00146;Carne Bovina;Produtos Frescos;18,08
+PROD00147;Batata;Produtos Frescos;26,09
+PROD00148;Banana;Produtos Frescos;31,06
+PROD00149;Pasta de Dente;Higiene;18,61
+PROD00150;Desodorante;Higiene;3,84
+PROD00151;Energtico;Bebidas;11,51
+PROD00152;Condicionador;Higiene;4,05
+PROD00153;Energtico;Bebidas;7,04
+PROD00154;Peixe;Produtos Frescos;37,36
+PROD00155;Peixe;Produtos Frescos;40,19
+PROD00156;Frango;Produtos Frescos;35,38
+PROD00157;Suco;Bebidas;6,89
+PROD00158;Cerveja;Bebidas;6,55
+PROD00159;Detergente;Limpeza;25,94
+PROD00160;Banana;Produtos Frescos;15,7
+PROD00161;Lustra Mveis;Limpeza;15,94
+PROD00162;Farinha;Alimentos;6
+PROD00163;Desinfetante;Limpeza;26,07
+PROD00164;Arroz;Alimentos;15,44
+PROD00165;Vinho;Bebidas;12,49
+PROD00166;Alface;Produtos Frescos;29,5
+PROD00167;Leite;Alimentos;9,58
+PROD00168;Lustra Mveis;Limpeza;37,68
+PROD00169;Vinho;Bebidas;12,51
+PROD00170;Vinho;Bebidas;13,77
+PROD00171;Peixe;Produtos Frescos;21,62
+PROD00172;Desodorante;Higiene;29,99
+PROD00173;leo;Alimentos;16,88
+PROD00174;Frango;Produtos Frescos;23,27
+PROD00175;Farinha;Alimentos;17,25
+PROD00176;Esponja;Limpeza;44,4
+PROD00177;Pasta de Dente;Higiene;13,53
+PROD00178;gua Mineral;Bebidas;8,19
+PROD00179;Lustra Mveis;Limpeza;27,62
+PROD00180;Banana;Produtos Frescos;32,3
+PROD00181;Condicionador;Higiene;24,63
+PROD00182;Acar;Alimentos;6,73
+PROD00183;Farinha;Alimentos;15,6
+PROD00184;leo;Alimentos;6,88
+PROD00185;Sabonete;Higiene;17,56
+PROD00186;Acar;Alimentos;8,84
+PROD00187;gua Sanitria;Limpeza;10,93
+PROD00188;Condicionador;Higiene;15,68
+PROD00189;Energtico;Bebidas;12,24
+PROD00190;Alface;Produtos Frescos;13,92
+PROD00191;Caf Gelado;Bebidas;9,26
+PROD00192;Desinfetante;Limpeza;10,9
+PROD00193;Condicionador;Higiene;9,47
+PROD00194;Refrigerante;Bebidas;11,79
+PROD00195;Ch;Bebidas;6,16
+PROD00196;Escova de Dente;Higiene;28,1
+PROD00197;Desinfetante;Limpeza;17,15
+PROD00198;Feijo;Alimentos;6,63
+PROD00199;Arroz;Alimentos;14,65
+PROD00200;Alface;Produtos Frescos;23,15
+PROD00201;Alface;Produtos Frescos;31,46
+PROD00202;Carne Bovina;Produtos Frescos;39,45
+PROD00203;Vinho;Bebidas;7,15
+PROD00204;Feijo;Alimentos;3,38
+PROD00205;Pasta de Dente;Higiene;14,3
+PROD00206;Caf Gelado;Bebidas;12,07
+PROD00207;Shampoo;Higiene;2,3
+PROD00208;Sabonete;Higiene;15,06
+PROD00209;Refrigerante;Bebidas;11,14
+PROD00210;Sabo em P;Limpeza;19,54
+PROD00211;Banana;Produtos Frescos;42,38
+PROD00212;Leite;Alimentos;14
+PROD00213;Desodorante;Higiene;8,64
+PROD00214;Banana;Produtos Frescos;21,42
+PROD00215;Detergente;Limpeza;30,84
+PROD00216;Tomate;Produtos Frescos;15,27
+PROD00217;Suco;Bebidas;10,33
+PROD00218;Esponja;Limpeza;24,74
+PROD00219;Acar;Alimentos;3,7
+PROD00220;Ch;Bebidas;5,89
+PROD00221;Tomate;Produtos Frescos;43,44
+PROD00222;gua Sanitria;Limpeza;22,41
+PROD00223;Caf;Alimentos;12,11
+PROD00224;Cerveja;Bebidas;12,51
+PROD00225;Suco;Bebidas;4,11
+PROD00226;Ch;Bebidas;10,86
+PROD00227;Peixe;Produtos Frescos;42,39
+PROD00228;Caf Gelado;Bebidas;10,96
+PROD00229;Pasta de Dente;Higiene;12,61
+PROD00230;Refrigerante;Bebidas;10
+PROD00231;Pasta de Dente;Higiene;28,54
+PROD00232;Detergente;Limpeza;28,28
+PROD00233;Suco;Bebidas;2,74
+PROD00234;Peixe;Produtos Frescos;6,97
+PROD00235;Desinfetante;Limpeza;45,59
+PROD00236;gua Mineral;Bebidas;11,17
+PROD00237;Farinha;Alimentos;8,02
+PROD00238;Carne Bovina;Produtos Frescos;8,63
+PROD00239;Sabo em P;Limpeza;47,04
+PROD00240;Caf Gelado;Bebidas;9,84
+PROD00241;Leite;Alimentos;13,13
+PROD00242;Desinfetante;Limpeza;20,96
+PROD00243;Macarro;Alimentos;3,81
+PROD00244;Esponja;Limpeza;17,36
+PROD00245;Desinfetante;Limpeza;36,44
+PROD00246;leo;Alimentos;6,16
+PROD00247;Vinho;Bebidas;6,53
+PROD00248;Energtico;Bebidas;11
+PROD00249;Pasta de Dente;Higiene;26,51
+PROD00250;Sabonete;Higiene;17,18
+PROD00251;Carne Bovina;Produtos Frescos;8,58
+PROD00252;Sabonete;Higiene;4,71
+PROD00253;Pasta de Dente;Higiene;15,31
+PROD00254;Carne Bovina;Produtos Frescos;13,44
+PROD00255;Energtico;Bebidas;8,53
+PROD00256;Esponja;Limpeza;35,3
+PROD00257;Condicionador;Higiene;2,69
+PROD00258;Lustra Mveis;Limpeza;21,13
+PROD00259;Sabonete;Higiene;20,97
+PROD00260;Farinha;Alimentos;8,76
+PROD00261;Farinha;Alimentos;19,81
+PROD00262;Esponja;Limpeza;12,88
+PROD00263;Sabo em P;Limpeza;19,81
+PROD00264;Banana;Produtos Frescos;32,22
+PROD00265;Caf Gelado;Bebidas;12,95
+PROD00266;Ma;Produtos Frescos;39,6
+PROD00267;Caf;Alimentos;7,29
+PROD00268;Sabo em P;Limpeza;43,68
+PROD00269;Ch;Bebidas;5,62
+PROD00270;Cerveja;Bebidas;9,43
+PROD00271;Esponja;Limpeza;22,43
+PROD00272;Condicionador;Higiene;17,92
+PROD00273;Escova de Dente;Higiene;4,57
+PROD00274;Escova de Dente;Higiene;3,84
+PROD00275;Pasta de Dente;Higiene;29,77
+PROD00276;Desodorante;Higiene;3,29
+PROD00277;Ma;Produtos Frescos;21,02
+PROD00278;leo;Alimentos;7,28
+PROD00279;Energtico;Bebidas;10,43
+PROD00280;Feijo;Alimentos;13,76
+PROD00281;Desinfetante;Limpeza;19,63
+PROD00282;Sabo em P;Limpeza;15,27
+PROD00283;Esponja;Limpeza;20,1
+PROD00284;Feijo;Alimentos;12,76
+PROD00285;Sabonete;Higiene;4,55
+PROD00286;gua Sanitria;Limpeza;48,37
+PROD00287;Ch;Bebidas;7,09
+PROD00288;Lustra Mveis;Limpeza;20,96
+PROD00289;Peixe;Produtos Frescos;5,53
+PROD00290;Feijo;Alimentos;10,88
+PROD00291;leo;Alimentos;19,59
+PROD00292;Ma;Produtos Frescos;45,76
+PROD00293;Macarro;Alimentos;17,3
+PROD00294;Escova de Dente;Higiene;21,12
+PROD00295;Esponja;Limpeza;43,94
+PROD00296;Ma;Produtos Frescos;41,83
+PROD00297;Cerveja;Bebidas;2,13
+PROD00298;gua Mineral;Bebidas;10,66
+PROD00299;Condicionador;Higiene;18,3
+PROD00300;Detergente;Limpeza;37,39
+PROD00301;leo;Alimentos;4,05
+PROD00302;Vinho;Bebidas;5,43
+PROD00303;Desodorante;Higiene;17,99
+PROD00304;Escova de Dente;Higiene;11,23
+PROD00305;Peixe;Produtos Frescos;41,2
+PROD00306;Peixe;Produtos Frescos;18,73
+PROD00307;gua Sanitria;Limpeza;33,7
+PROD00308;Desodorante;Higiene;12,61
+PROD00309;Desodorante;Higiene;25,16
+PROD00310;Esponja;Limpeza;45,9
+PROD00311;Cerveja;Bebidas;12,18
+PROD00312;Condicionador;Higiene;4,52
+PROD00313;Frango;Produtos Frescos;37,55
+PROD00314;Vinho;Bebidas;2,75
+PROD00315;Detergente;Limpeza;23,76
+PROD00316;Farinha;Alimentos;8,51
+PROD00317;Alface;Produtos Frescos;18,35
+PROD00318;Shampoo;Higiene;6,95
+PROD00319;Alface;Produtos Frescos;5,04
+PROD00320;Frango;Produtos Frescos;9,83
+PROD00321;Condicionador;Higiene;13,57
+PROD00322;Desinfetante;Limpeza;30,79
+PROD00323;Shampoo;Higiene;15,7
+PROD00324;Vinho;Bebidas;12,52
+PROD00325;Shampoo;Higiene;3,91
+PROD00326;leo;Alimentos;11
+PROD00327;Macarro;Alimentos;7,82
+PROD00328;Desodorante;Higiene;22,02
+PROD00329;Shampoo;Higiene;14,52
+PROD00330;Ch;Bebidas;13,16
+PROD00331;leo;Alimentos;15,68
+PROD00332;Tomate;Produtos Frescos;9,2
+PROD00333;Farinha;Alimentos;12,37
+PROD00334;Peixe;Produtos Frescos;10,67
+PROD00335;Shampoo;Higiene;13
+PROD00336;Caf Gelado;Bebidas;6,58
+PROD00337;gua Sanitria;Limpeza;19,57
+PROD00338;Suco;Bebidas;13,32
+PROD00339;Sabo em P;Limpeza;19,1
+PROD00340;Shampoo;Higiene;26,16
+PROD00341;Shampoo;Higiene;27,17
+PROD00342;Esponja;Limpeza;25,05
+PROD00343;Shampoo;Higiene;24,79
+PROD00344;Ch;Bebidas;10,47
+PROD00345;Ch;Bebidas;14,01
+PROD00346;Sabo em P;Limpeza;40,69
+PROD00347;Energtico;Bebidas;2,4
+PROD00348;Ch;Bebidas;3,53
+PROD00349;Vinho;Bebidas;2,06
+PROD00350;Feijo;Alimentos;11,39
+PROD00351;Energtico;Bebidas;12,38
+PROD00352;Sabo em P;Limpeza;43,76
+PROD00353;Lustra Mveis;Limpeza;27,36
+PROD00354;Biscoito;Alimentos;18,08
+PROD00355;Desinfetante;Limpeza;36,55
+PROD00356;Banana;Produtos Frescos;29,41
+PROD00357;Ma;Produtos Frescos;24,51
+PROD00358;Batata;Produtos Frescos;18,33
+PROD00359;Caf;Alimentos;4,95
+PROD00360;Sabonete;Higiene;9,7
+PROD00361;Acar;Alimentos;7,96
+PROD00362;Peixe;Produtos Frescos;15,23
+PROD00363;Ch;Bebidas;7,67
+PROD00364;Batata;Produtos Frescos;15,03
+PROD00365;Cerveja;Bebidas;13,33
+PROD00366;Escova de Dente;Higiene;9,24
+PROD00367;Tomate;Produtos Frescos;43,87
+PROD00368;Peixe;Produtos Frescos;11,89
+PROD00369;Ma;Produtos Frescos;39,44
+PROD00370;Arroz;Alimentos;12,92
+PROD00371;Caf Gelado;Bebidas;12,8
+PROD00372;Esponja;Limpeza;20,17
+PROD00373;Sabo em P;Limpeza;30,79
+PROD00374;Tomate;Produtos Frescos;41,77
+PROD00375;Banana;Produtos Frescos;32,21
+PROD00376;Arroz;Alimentos;7,73
+PROD00377;Suco;Bebidas;11,35
+PROD00378;Batata;Produtos Frescos;32,62
+PROD00379;Sabo em P;Limpeza;29,68
+PROD00380;Shampoo;Higiene;5,13
+PROD00381;gua Sanitria;Limpeza;15,76
+PROD00382;Detergente;Limpeza;35,1
+PROD00383;Farinha;Alimentos;15,3
+PROD00384;gua Sanitria;Limpeza;18,32
+PROD00385;Condicionador;Higiene;7,29
+PROD00386;Pasta de Dente;Higiene;17,66
+PROD00387;Shampoo;Higiene;27,18
+PROD00388;Detergente;Limpeza;48,05
+PROD00389;Tomate;Produtos Frescos;47,58
+PROD00390;Peixe;Produtos Frescos;47,01
+PROD00391;Energtico;Bebidas;8,08
+PROD00392;leo;Alimentos;13,54
+PROD00393;Refrigerante;Bebidas;5,37
+PROD00394;Macarro;Alimentos;8,46
+PROD00395;Carne Bovina;Produtos Frescos;13,9
+PROD00396;Carne Bovina;Produtos Frescos;36,66
+PROD00397;Refrigerante;Bebidas;8,95
+PROD00398;Feijo;Alimentos;6,22
+PROD00399;gua Sanitria;Limpeza;7,21
+PROD00400;gua Sanitria;Limpeza;49,96
+PROD00401;Cerveja;Bebidas;4,3
+PROD00402;Refrigerante;Bebidas;7,85
+PROD00403;Biscoito;Alimentos;5,65
+PROD00404;Pasta de Dente;Higiene;17,14
+PROD00405;Condicionador;Higiene;12,38
+PROD00406;Escova de Dente;Higiene;7,97
+PROD00407;Farinha;Alimentos;8,78
+PROD00408;Condicionador;Higiene;23,66
+PROD00409;Alface;Produtos Frescos;6,84
+PROD00410;Alface;Produtos Frescos;49,63
+PROD00411;Pasta de Dente;Higiene;21,37
+PROD00412;Tomate;Produtos Frescos;30,47
+PROD00413;Detergente;Limpeza;45,08
+PROD00414;Pasta de Dente;Higiene;24,41
+PROD00415;Acar;Alimentos;4,01
+PROD00416;Cerveja;Bebidas;4,1
+PROD00417;Alface;Produtos Frescos;8,61
+PROD00418;Vinho;Bebidas;3,84
+PROD00419;Batata;Produtos Frescos;39,62
+PROD00420;Condicionador;Higiene;6,83
+PROD00421;Escova de Dente;Higiene;28,23
+PROD00422;gua Sanitria;Limpeza;8,68
+PROD00423;Vinho;Bebidas;11,77
+PROD00424;Energtico;Bebidas;9,07
+PROD00425;Condicionador;Higiene;5,63
+PROD00426;Farinha;Alimentos;13,15
+PROD00427;Escova de Dente;Higiene;5,97
+PROD00428;Desodorante;Higiene;12,26
+PROD00429;Arroz;Alimentos;11,83
+PROD00430;Escova de Dente;Higiene;24,53
+PROD00431;Macarro;Alimentos;15,69
+PROD00432;Ma;Produtos Frescos;14,83
+PROD00433;Vinho;Bebidas;2,55
+PROD00434;Escova de Dente;Higiene;13,08
+PROD00435;Tomate;Produtos Frescos;41,03
+PROD00436;Escova de Dente;Higiene;14,81
+PROD00437;Arroz;Alimentos;8,25
+PROD00438;Escova de Dente;Higiene;21,73
+PROD00439;gua Mineral;Bebidas;8,97
+PROD00440;Shampoo;Higiene;12,87
+PROD00441;Banana;Produtos Frescos;47,11
+PROD00442;Frango;Produtos Frescos;8,61
+PROD00443;Cerveja;Bebidas;4,55
+PROD00444;Pasta de Dente;Higiene;9,36
+PROD00445;Tomate;Produtos Frescos;5,84
+PROD00446;Sabonete;Higiene;13,29
+PROD00447;Esponja;Limpeza;10,04
+PROD00448;Tomate;Produtos Frescos;22,47
+PROD00449;Alface;Produtos Frescos;39,06
+PROD00450;Carne Bovina;Produtos Frescos;43,63
+PROD00451;Carne Bovina;Produtos Frescos;37,04
+PROD00452;Feijo;Alimentos;15,75
+PROD00453;Ma;Produtos Frescos;42,34
+PROD00454;Desinfetante;Limpeza;24,32
+PROD00455;Farinha;Alimentos;3,25
+PROD00456;Sabonete;Higiene;4,62
+PROD00457;Detergente;Limpeza;36,02
+PROD00458;Esponja;Limpeza;38,2
+PROD00459;Peixe;Produtos Frescos;43,09
+PROD00460;Detergente;Limpeza;28,91
+PROD00461;Energtico;Bebidas;5,11
+PROD00462;Peixe;Produtos Frescos;21,92
+PROD00463;gua Sanitria;Limpeza;16,89
+PROD00464;Suco;Bebidas;6,44
+PROD00465;Acar;Alimentos;7,91
+PROD00466;Leite;Alimentos;6,82
+PROD00467;Frango;Produtos Frescos;45,47
+PROD00468;gua Mineral;Bebidas;12,45
+PROD00469;Leite;Alimentos;11,99
+PROD00470;Desinfetante;Limpeza;40,56
+PROD00471;Macarro;Alimentos;18,1
+PROD00472;Desodorante;Higiene;19,55
+PROD00473;Sabo em P;Limpeza;16,66
+PROD00474;Desinfetante;Limpeza;25,32
+PROD00475;gua Mineral;Bebidas;2,72
+PROD00476;Desodorante;Higiene;22,14
+PROD00477;Caf Gelado;Bebidas;12,17
+PROD00478;Frango;Produtos Frescos;25,51
+PROD00479;Detergente;Limpeza;32,13
+PROD00480;Lustra Mveis;Limpeza;6,73
+PROD00481;Detergente;Limpeza;29,74
+PROD00482;Desodorante;Higiene;6,99
+PROD00483;Peixe;Produtos Frescos;7,27
+PROD00484;Acar;Alimentos;17,83
+PROD00485;Desinfetante;Limpeza;49,07
+PROD00486;Tomate;Produtos Frescos;35,47
+PROD00487;Macarro;Alimentos;5,06
+PROD00488;gua Mineral;Bebidas;12,18
+PROD00489;Farinha;Alimentos;9,94
+PROD00490;Caf Gelado;Bebidas;14,06
+PROD00491;Desodorante;Higiene;11,82
+PROD00492;Vinho;Bebidas;2,3
+PROD00493;gua Sanitria;Limpeza;7,65
+PROD00494;Batata;Produtos Frescos;44,12
+PROD00495;Leite;Alimentos;15,51
+PROD00496;Detergente;Limpeza;45,26
+PROD00497;Macarro;Alimentos;9,99
+PROD00498;Batata;Produtos Frescos;48,79
+PROD00499;Carne Bovina;Produtos Frescos;30,53
+PROD00500;Caf;Alimentos;5,24
+PROD00501;Desodorante;Higiene;12,29
+PROD00502;Leite;Alimentos;11,25
+PROD00503;Sabo em P;Limpeza;17,99
+PROD00504;Pasta de Dente;Higiene;3,08
+PROD00505;Lustra Mveis;Limpeza;45,33
+PROD00506;Esponja;Limpeza;48,64
+PROD00507;gua Sanitria;Limpeza;21,78
+PROD00508;leo;Alimentos;9,59
+PROD00509;Shampoo;Higiene;2,2
+PROD00510;Condicionador;Higiene;12,34
+PROD00511;Peixe;Produtos Frescos;33,81
+PROD00512;Macarro;Alimentos;16,97
+PROD00513;Ma;Produtos Frescos;34,79
+PROD00514;Pasta de Dente;Higiene;22,59
+PROD00515;Desinfetante;Limpeza;40,95
+PROD00516;Detergente;Limpeza;11,26
+PROD00517;Feijo;Alimentos;17,53
+PROD00518;Suco;Bebidas;8,24
+PROD00519;Escova de Dente;Higiene;28,4
+PROD00520;Arroz;Alimentos;19
+PROD00521;Vinho;Bebidas;2,17
+PROD00522;Shampoo;Higiene;12,84
+PROD00523;Peixe;Produtos Frescos;41,32
+PROD00524;Pasta de Dente;Higiene;19,33
+PROD00525;Condicionador;Higiene;27,66
+PROD00526;Frango;Produtos Frescos;34,6
+PROD00527;Pasta de Dente;Higiene;20,38
+PROD00528;Macarro;Alimentos;9,35
+PROD00529;Sabo em P;Limpeza;48,1
+PROD00530;Caf;Alimentos;16,71
+PROD00531;Sabo em P;Limpeza;19,59
+PROD00532;Arroz;Alimentos;7,47
+PROD00533;Tomate;Produtos Frescos;8,97
+PROD00534;Peixe;Produtos Frescos;10,37
+PROD00535;Frango;Produtos Frescos;21,5
+PROD00536;Lustra Mveis;Limpeza;32,9
+PROD00537;Farinha;Alimentos;5,73
+PROD00538;Desinfetante;Limpeza;37,04
+PROD00539;Tomate;Produtos Frescos;42,39
+PROD00540;Desodorante;Higiene;3,02
+PROD00541;Ch;Bebidas;8,24
+PROD00542;Sabonete;Higiene;7,73
+PROD00543;Batata;Produtos Frescos;18,84
+PROD00544;Alface;Produtos Frescos;21,35
+PROD00545;Alface;Produtos Frescos;21,66
+PROD00546;gua Mineral;Bebidas;14,97
+PROD00547;Leite;Alimentos;5,53
+PROD00548;Condicionador;Higiene;29,38
+PROD00549;Energtico;Bebidas;7,54
+PROD00550;Alface;Produtos Frescos;48,69
+PROD00551;Condicionador;Higiene;6,84
+PROD00552;gua Sanitria;Limpeza;44,8
+PROD00553;Escova de Dente;Higiene;19,34
+PROD00554;Desinfetante;Limpeza;20,21
+PROD00555;Esponja;Limpeza;7,14
+PROD00556;Detergente;Limpeza;25,41
+PROD00557;Sabonete;Higiene;25,7
+PROD00558;Batata;Produtos Frescos;40,73
+PROD00559;Sabo em P;Limpeza;42,33
+PROD00560;Peixe;Produtos Frescos;47,53
+PROD00561;Batata;Produtos Frescos;25,21
+PROD00562;Ch;Bebidas;6
+PROD00563;gua Mineral;Bebidas;14,53
+PROD00564;Carne Bovina;Produtos Frescos;32,26
+PROD00565;Alface;Produtos Frescos;16,69
+PROD00566;Cerveja;Bebidas;14,05
+PROD00567;Energtico;Bebidas;2,36
+PROD00568;Ch;Bebidas;11,86
+PROD00569;Energtico;Bebidas;8,09
+PROD00570;Macarro;Alimentos;5,71
+PROD00571;gua Mineral;Bebidas;12,43
+PROD00572;Shampoo;Higiene;2,11
+PROD00573;Pasta de Dente;Higiene;5,94
+PROD00574;Desinfetante;Limpeza;17,81
+PROD00575;gua Mineral;Bebidas;10,47
+PROD00576;Condicionador;Higiene;11,55
+PROD00577;Pasta de Dente;Higiene;29,76
+PROD00578;Frango;Produtos Frescos;29,88
+PROD00579;Biscoito;Alimentos;19,52
+PROD00580;Desodorante;Higiene;21,98
+PROD00581;Frango;Produtos Frescos;15,49
+PROD00582;Desodorante;Higiene;26,96
+PROD00583;Leite;Alimentos;3,69
+PROD00584;Arroz;Alimentos;8,31
+PROD00585;Arroz;Alimentos;19,77
+PROD00586;gua Mineral;Bebidas;7,52
+PROD00587;Frango;Produtos Frescos;23,07
+PROD00588;Sabonete;Higiene;11,84
+PROD00589;Escova de Dente;Higiene;5,88
+PROD00590;Condicionador;Higiene;3,15
+PROD00591;Batata;Produtos Frescos;14,14
+PROD00592;gua Sanitria;Limpeza;45,89
+PROD00593;Ma;Produtos Frescos;32,4
+PROD00594;Pasta de Dente;Higiene;16,77
+PROD00595;Detergente;Limpeza;21,04
+PROD00596;Caf Gelado;Bebidas;2,86
+PROD00597;Condicionador;Higiene;28,02
+PROD00598;Macarro;Alimentos;13,82
+PROD00599;Lustra Mveis;Limpeza;28,63
+PROD00600;Carne Bovina;Produtos Frescos;36,02
+PROD00601;Esponja;Limpeza;39,29
+PROD00602;Caf;Alimentos;18,74
+PROD00603;Farinha;Alimentos;16,13
+PROD00604;Banana;Produtos Frescos;21,14
+PROD00605;Cerveja;Bebidas;8,42
+PROD00606;Carne Bovina;Produtos Frescos;25,12
+PROD00607;gua Sanitria;Limpeza;41,76
+PROD00608;Caf Gelado;Bebidas;7,52
+PROD00609;Shampoo;Higiene;2,67
+PROD00610;Sabonete;Higiene;25,61
+PROD00611;Sabo em P;Limpeza;34,92
+PROD00612;Tomate;Produtos Frescos;40,44
+PROD00613;Condicionador;Higiene;12,91
+PROD00614;gua Sanitria;Limpeza;42,95
+PROD00615;Caf;Alimentos;15,85
+PROD00616;Alface;Produtos Frescos;48,82
+PROD00617;Escova de Dente;Higiene;23,83
+PROD00618;Macarro;Alimentos;16,71
+PROD00619;Banana;Produtos Frescos;29,46
+PROD00620;Banana;Produtos Frescos;38,96
+PROD00621;Vinho;Bebidas;3,25
+PROD00622;Escova de Dente;Higiene;26,2
+PROD00623;Biscoito;Alimentos;17,11
+PROD00624;Ma;Produtos Frescos;15,98
+PROD00625;Macarro;Alimentos;14,84
+PROD00626;Desodorante;Higiene;19,65
+PROD00627;Caf;Alimentos;15,13
+PROD00628;Ma;Produtos Frescos;26,14
+PROD00629;Desodorante;Higiene;28
+PROD00630;Biscoito;Alimentos;18,94
+PROD00631;Acar;Alimentos;16,09
+PROD00632;Macarro;Alimentos;17,91
+PROD00633;Refrigerante;Bebidas;9,71
+PROD00634;Energtico;Bebidas;4,31
+PROD00635;Banana;Produtos Frescos;10,26
+PROD00636;Escova de Dente;Higiene;26,31
+PROD00637;Vinho;Bebidas;7,77
+PROD00638;Pasta de Dente;Higiene;6,67
+PROD00639;Batata;Produtos Frescos;35,4
+PROD00640;Tomate;Produtos Frescos;13,12
+PROD00641;Vinho;Bebidas;12,29
+PROD00642;Feijo;Alimentos;13,63
+PROD00643;Escova de Dente;Higiene;7,19
+PROD00644;Lustra Mveis;Limpeza;9,82
+PROD00645;Arroz;Alimentos;14,64
+PROD00646;Feijo;Alimentos;9,22
+PROD00647;Banana;Produtos Frescos;20,02
+PROD00648;gua Sanitria;Limpeza;45,47
+PROD00649;Batata;Produtos Frescos;7,27
+PROD00650;Batata;Produtos Frescos;18,01
+PROD00651;Ma;Produtos Frescos;47,26
+PROD00652;Peixe;Produtos Frescos;45,34
+PROD00653;Suco;Bebidas;4,47
+PROD00654;Frango;Produtos Frescos;35,39
+PROD00655;Ma;Produtos Frescos;7,11
+PROD00656;Frango;Produtos Frescos;15,73
+PROD00657;Arroz;Alimentos;3,77
+PROD00658;Condicionador;Higiene;11,01
+PROD00659;Biscoito;Alimentos;19,61
+PROD00660;Escova de Dente;Higiene;4,51
+PROD00661;Tomate;Produtos Frescos;36,13
+PROD00662;Condicionador;Higiene;10,55
+PROD00663;gua Mineral;Bebidas;4,63
+PROD00664;Shampoo;Higiene;12,57
+PROD00665;Frango;Produtos Frescos;36,24
+PROD00666;Detergente;Limpeza;39,89
+PROD00667;Refrigerante;Bebidas;9,3
+PROD00668;Banana;Produtos Frescos;43,61
+PROD00669;Feijo;Alimentos;11,89
+PROD00670;Farinha;Alimentos;4,84
+PROD00671;Carne Bovina;Produtos Frescos;12,54
+PROD00672;Caf;Alimentos;13,53
+PROD00673;gua Sanitria;Limpeza;33,34
+PROD00674;Ma;Produtos Frescos;36,43
+PROD00675;Pasta de Dente;Higiene;2,72
+PROD00676;Pasta de Dente;Higiene;25,98
+PROD00677;Ma;Produtos Frescos;11,18
+PROD00678;Pasta de Dente;Higiene;5,8
+PROD00679;Leite;Alimentos;15,62
+PROD00680;Carne Bovina;Produtos Frescos;39,01
+PROD00681;Caf;Alimentos;16,38
+PROD00682;Leite;Alimentos;17,59
+PROD00683;Feijo;Alimentos;13,2
+PROD00684;Tomate;Produtos Frescos;30,63
+PROD00685;Arroz;Alimentos;11,04
+PROD00686;Condicionador;Higiene;6,68
+PROD00687;Escova de Dente;Higiene;8,73
+PROD00688;Tomate;Produtos Frescos;42,14
+PROD00689;Condicionador;Higiene;29,87
+PROD00690;Macarro;Alimentos;18,64
+PROD00691;Pasta de Dente;Higiene;26,64
+PROD00692;Batata;Produtos Frescos;43,09
+PROD00693;Pasta de Dente;Higiene;21,57
+PROD00694;Feijo;Alimentos;19,28
+PROD00695;Escova de Dente;Higiene;6,42
+PROD00696;Refrigerante;Bebidas;2,62
+PROD00697;Sabo em P;Limpeza;48,64
+PROD00698;Condicionador;Higiene;16,84
+PROD00699;Cerveja;Bebidas;9,32
+PROD00700;Detergente;Limpeza;35,14
+PROD00701;leo;Alimentos;18,67
+PROD00702;Frango;Produtos Frescos;26,08
+PROD00703;Desinfetante;Limpeza;27,34
+PROD00704;Detergente;Limpeza;16,53
+PROD00705;Vinho;Bebidas;7,38
+PROD00706;Ch;Bebidas;4,07
+PROD00707;Frango;Produtos Frescos;48,91
+PROD00708;Shampoo;Higiene;4,58
+PROD00709;Farinha;Alimentos;5,22
+PROD00710;Lustra Mveis;Limpeza;11,78
+PROD00711;Leite;Alimentos;14,8
+PROD00712;Caf;Alimentos;18,49
+PROD00713;Detergente;Limpeza;16,12
+PROD00714;Alface;Produtos Frescos;41,95
+PROD00715;Carne Bovina;Produtos Frescos;38,12
+PROD00716;gua Sanitria;Limpeza;22,32
+PROD00717;Detergente;Limpeza;33,86
+PROD00718;Condicionador;Higiene;10,46
+PROD00719;Energtico;Bebidas;12,21
+PROD00720;Escova de Dente;Higiene;13,93
+PROD00721;Condicionador;Higiene;12,25
+PROD00722;Desinfetante;Limpeza;14,2
+PROD00723;Suco;Bebidas;12,35
+PROD00724;Acar;Alimentos;9,96
+PROD00725;Lustra Mveis;Limpeza;45,19
+PROD00726;Peixe;Produtos Frescos;47,77
+PROD00727;Lustra Mveis;Limpeza;46,72
+PROD00728;Sabo em P;Limpeza;25,34
+PROD00729;Cerveja;Bebidas;3,34
+PROD00730;Shampoo;Higiene;24,32
+PROD00731;Shampoo;Higiene;16,13
+PROD00732;Escova de Dente;Higiene;5,57
+PROD00733;Shampoo;Higiene;28,43
+PROD00734;Refrigerante;Bebidas;12,57
+PROD00735;Pasta de Dente;Higiene;9,81
+PROD00736;gua Sanitria;Limpeza;24,64
+PROD00737;Acar;Alimentos;15,33
+PROD00738;Pasta de Dente;Higiene;3,59
+PROD00739;Suco;Bebidas;4,46
+PROD00740;Sabonete;Higiene;6,44
+PROD00741;Feijo;Alimentos;8,7
+PROD00742;Condicionador;Higiene;4,54
+PROD00743;Detergente;Limpeza;10,24
+PROD00744;Biscoito;Alimentos;15,25
+PROD00745;Sabo em P;Limpeza;48,25
+PROD00746;Macarro;Alimentos;6,39
+PROD00747;gua Sanitria;Limpeza;31,33
+PROD00748;Banana;Produtos Frescos;17,6
+PROD00749;gua Sanitria;Limpeza;25,4
+PROD00750;Leite;Alimentos;17,27
+PROD00751;Ch;Bebidas;6,55
+PROD00752;Condicionador;Higiene;19,59
+PROD00753;Vinho;Bebidas;3,48
+PROD00754;Lustra Mveis;Limpeza;5,53
+PROD00755;Sabonete;Higiene;19,22
+PROD00756;gua Mineral;Bebidas;11,84
+PROD00757;Sabonete;Higiene;25,42
+PROD00758;gua Sanitria;Limpeza;9,93
+PROD00759;Esponja;Limpeza;31,31
+PROD00760;Peixe;Produtos Frescos;48,56
+PROD00761;Banana;Produtos Frescos;29,45
+PROD00762;Desinfetante;Limpeza;38,73
+PROD00763;Desodorante;Higiene;21,45
+PROD00764;Lustra Mveis;Limpeza;41,2
+PROD00765;Refrigerante;Bebidas;7,6
+PROD00766;Desinfetante;Limpeza;27,37
+PROD00767;Desodorante;Higiene;27,8
+PROD00768;Sabo em P;Limpeza;11,11
+PROD00769;Pasta de Dente;Higiene;17,22
+PROD00770;Farinha;Alimentos;4,74
+PROD00771;Frango;Produtos Frescos;29,04
+PROD00772;Suco;Bebidas;7,23
+PROD00773;Desinfetante;Limpeza;21,51
+PROD00774;Macarro;Alimentos;8,92
+PROD00775;Cerveja;Bebidas;7,23
+PROD00776;Ch;Bebidas;9,22
+PROD00777;Desodorante;Higiene;10,09
+PROD00778;Arroz;Alimentos;8,78
+PROD00779;Banana;Produtos Frescos;5,98
+PROD00780;Suco;Bebidas;4,79
+PROD00781;Macarro;Alimentos;15,88
+PROD00782;Ch;Bebidas;13,51
+PROD00783;Feijo;Alimentos;7,63
+PROD00784;Sabo em P;Limpeza;8,16
+PROD00785;Biscoito;Alimentos;5,41
+PROD00786;Sabo em P;Limpeza;25,82
+PROD00787;gua Mineral;Bebidas;10,64
+PROD00788;Sabonete;Higiene;24,23
+PROD00789;Pasta de Dente;Higiene;8,06
+PROD00790;Caf Gelado;Bebidas;4,11
+PROD00791;Desinfetante;Limpeza;48,87
+PROD00792;Vinho;Bebidas;8,48
+PROD00793;Pasta de Dente;Higiene;27,87
+PROD00794;Escova de Dente;Higiene;7,06
+PROD00795;Desinfetante;Limpeza;24,46
+PROD00796;Shampoo;Higiene;19,35
+PROD00797;Suco;Bebidas;7,72
+PROD00798;Shampoo;Higiene;11,02
+PROD00799;leo;Alimentos;17,32
+PROD00800;Vinho;Bebidas;5,64
+PROD00801;Ch;Bebidas;4,72
+PROD00802;Caf Gelado;Bebidas;11,8
+PROD00803;Farinha;Alimentos;7,7
+PROD00804;gua Mineral;Bebidas;9,58
+PROD00805;Leite;Alimentos;11,7
+PROD00806;Arroz;Alimentos;14,55
+PROD00807;Lustra Mveis;Limpeza;34,57
+PROD00808;Feijo;Alimentos;9,71
+PROD00809;Arroz;Alimentos;4,68
+PROD00810;Peixe;Produtos Frescos;49,38
+PROD00811;Pasta de Dente;Higiene;20,44
+PROD00812;Shampoo;Higiene;18,45
+PROD00813;Sabonete;Higiene;28,36
+PROD00814;Sabo em P;Limpeza;43,72
+PROD00815;Banana;Produtos Frescos;34,22
+PROD00816;Sabo em P;Limpeza;7,25
+PROD00817;Escova de Dente;Higiene;28,33
+PROD00818;Lustra Mveis;Limpeza;23,15
+PROD00819;Shampoo;Higiene;8,51
+PROD00820;Peixe;Produtos Frescos;15,39
+PROD00821;Detergente;Limpeza;23,81
+PROD00822;Detergente;Limpeza;7,72
+PROD00823;Frango;Produtos Frescos;36,8
+PROD00824;Acar;Alimentos;5,15
+PROD00825;Ma;Produtos Frescos;43,85
+PROD00826;Leite;Alimentos;4,36
+PROD00827;Peixe;Produtos Frescos;13,11
+PROD00828;Esponja;Limpeza;37,02
+PROD00829;Esponja;Limpeza;46,19
+PROD00830;Condicionador;Higiene;10,42
+PROD00831;Escova de Dente;Higiene;26,51
+PROD00832;Desinfetante;Limpeza;22,24
+PROD00833;Suco;Bebidas;3,73
+PROD00834;Peixe;Produtos Frescos;48,35
+PROD00835;Condicionador;Higiene;25,47
+PROD00836;Leite;Alimentos;17,92
+PROD00837;gua Mineral;Bebidas;2,7
+PROD00838;Detergente;Limpeza;19,35
+PROD00839;Ch;Bebidas;8,09
+PROD00840;gua Sanitria;Limpeza;38,24
+PROD00841;Cerveja;Bebidas;11,37
+PROD00842;Sabo em P;Limpeza;37,38
+PROD00843;Acar;Alimentos;17,64
+PROD00844;Esponja;Limpeza;23,43
+PROD00845;leo;Alimentos;9,33
+PROD00846;Escova de Dente;Higiene;28,41
+PROD00847;Escova de Dente;Higiene;21,78
+PROD00848;Macarro;Alimentos;5,24
+PROD00849;Detergente;Limpeza;29,39
+PROD00850;Feijo;Alimentos;7,45
+PROD00851;Sabo em P;Limpeza;41,89
+PROD00852;Sabo em P;Limpeza;10,04
+PROD00853;Macarro;Alimentos;18,47
+PROD00854;Desinfetante;Limpeza;36,48
+PROD00855;Shampoo;Higiene;24,55
+PROD00856;gua Sanitria;Limpeza;40,89
+PROD00857;Shampoo;Higiene;16,83
+PROD00858;Sabonete;Higiene;16,82
+PROD00859;Refrigerante;Bebidas;7,92
+PROD00860;Cerveja;Bebidas;11,73
+PROD00861;Sabo em P;Limpeza;34,35
+PROD00862;Sabo em P;Limpeza;37,76
+PROD00863;Carne Bovina;Produtos Frescos;13,9
+PROD00864;gua Sanitria;Limpeza;14,57
+PROD00865;leo;Alimentos;8,71
+PROD00866;Ch;Bebidas;9,5
+PROD00867;Caf Gelado;Bebidas;2,73
+PROD00868;gua Sanitria;Limpeza;13,64
+PROD00869;Carne Bovina;Produtos Frescos;18,77
+PROD00870;Caf Gelado;Bebidas;5,67
+PROD00871;Esponja;Limpeza;40,84
+PROD00872;Lustra Mveis;Limpeza;38,66
+PROD00873;Ma;Produtos Frescos;34,73
+PROD00874;Cerveja;Bebidas;3,74
+PROD00875;Acar;Alimentos;19,35
+PROD00876;Farinha;Alimentos;19,88
+PROD00877;Acar;Alimentos;16,58
+PROD00878;Desodorante;Higiene;12,33
+PROD00879;Caf Gelado;Bebidas;6,59
+PROD00880;Arroz;Alimentos;6,22
+PROD00881;Detergente;Limpeza;19,65
+PROD00882;Biscoito;Alimentos;6,78
+PROD00883;Biscoito;Alimentos;8,15
+PROD00884;Energtico;Bebidas;4,53
+PROD00885;gua Sanitria;Limpeza;36,51
+PROD00886;Escova de Dente;Higiene;4,23
+PROD00887;Escova de Dente;Higiene;11,93
+PROD00888;Caf Gelado;Bebidas;2,45
+PROD00889;Frango;Produtos Frescos;24,62
+PROD00890;Escova de Dente;Higiene;4,07
+PROD00891;Esponja;Limpeza;38,88
+PROD00892;Tomate;Produtos Frescos;48,22
+PROD00893;Macarro;Alimentos;3,42
+PROD00894;Refrigerante;Bebidas;13,51
+PROD00895;Detergente;Limpeza;18,31
+PROD00896;Frango;Produtos Frescos;28,38
+PROD00897;Vinho;Bebidas;14,37
+PROD00898;Banana;Produtos Frescos;30,43
+PROD00899;Condicionador;Higiene;20,69
+PROD00900;Macarro;Alimentos;14,92
+PROD00901;Energtico;Bebidas;2,26
+PROD00902;Escova de Dente;Higiene;13,48
+PROD00903;Suco;Bebidas;8,5
+PROD00904;Tomate;Produtos Frescos;15,85
+PROD00905;Tomate;Produtos Frescos;36,71
+PROD00906;Desodorante;Higiene;6,65
+PROD00907;Frango;Produtos Frescos;14,87
+PROD00908;Sabo em P;Limpeza;16,78
+PROD00909;Caf Gelado;Bebidas;14,24
+PROD00910;Esponja;Limpeza;9
+PROD00911;Esponja;Limpeza;36,37
+PROD00912;Pasta de Dente;Higiene;23,61
+PROD00913;Farinha;Alimentos;3,27
+PROD00914;Feijo;Alimentos;5,75
+PROD00915;Feijo;Alimentos;11,3
+PROD00916;Pasta de Dente;Higiene;17,61
+PROD00917;Sabo em P;Limpeza;6,17
+PROD00918;Lustra Mveis;Limpeza;39,6
+PROD00919;Farinha;Alimentos;5,73
+PROD00920;Condicionador;Higiene;27,99
+PROD00921;Banana;Produtos Frescos;22,56
+PROD00922;Arroz;Alimentos;18,85
+PROD00923;Carne Bovina;Produtos Frescos;18,7
+PROD00924;Sabo em P;Limpeza;21,52
+PROD00925;Leite;Alimentos;7,78
+PROD00926;Peixe;Produtos Frescos;11,41
+PROD00927;Refrigerante;Bebidas;3,62
+PROD00928;Desodorante;Higiene;22,39
+PROD00929;Leite;Alimentos;10,13
+PROD00930;Batata;Produtos Frescos;37,87
+PROD00931;Sabonete;Higiene;29,45
+PROD00932;Alface;Produtos Frescos;10,3
+PROD00933;Caf;Alimentos;18,39
+PROD00934;Sabonete;Higiene;21,9
+PROD00935;Leite;Alimentos;5,21
+PROD00936;Caf Gelado;Bebidas;14,2
+PROD00937;Lustra Mveis;Limpeza;8,77
+PROD00938;Lustra Mveis;Limpeza;35,06
+PROD00939;Energtico;Bebidas;13,09
+PROD00940;Alface;Produtos Frescos;49,78
+PROD00941;Biscoito;Alimentos;4,96
+PROD00942;Sabo em P;Limpeza;25,51
+PROD00943;gua Sanitria;Limpeza;9,58
+PROD00944;Batata;Produtos Frescos;32,48
+PROD00945;Alface;Produtos Frescos;45,1
+PROD00946;Cerveja;Bebidas;5,78
+PROD00947;Lustra Mveis;Limpeza;33,85
+PROD00948;Desinfetante;Limpeza;21,32
+PROD00949;Arroz;Alimentos;11,68
+PROD00950;Farinha;Alimentos;17,67
+PROD00951;Ma;Produtos Frescos;39,08
+PROD00952;Detergente;Limpeza;28,56
+PROD00953;Sabo em P;Limpeza;39,82
+PROD00954;Esponja;Limpeza;14,28
+PROD00955;Carne Bovina;Produtos Frescos;31,22
+PROD00956;Esponja;Limpeza;24,95
+PROD00957;Alface;Produtos Frescos;29,08
+PROD00958;Sabo em P;Limpeza;9,85
+PROD00959;Cerveja;Bebidas;14,38
+PROD00960;Tomate;Produtos Frescos;40,05
+PROD00961;Refrigerante;Bebidas;4,59
+PROD00962;gua Mineral;Bebidas;9,53
+PROD00963;Refrigerante;Bebidas;5,75
+PROD00964;Feijo;Alimentos;11,28
+PROD00965;Pasta de Dente;Higiene;26,16
+PROD00966;Caf;Alimentos;8,71
+PROD00967;Caf Gelado;Bebidas;5,7
+PROD00968;Feijo;Alimentos;14,32
+PROD00969;Leite;Alimentos;14,77
+PROD00970;Arroz;Alimentos;8,83
+PROD00971;Arroz;Alimentos;13,14
+PROD00972;Batata;Produtos Frescos;9,86
+PROD00973;Banana;Produtos Frescos;28,75
+PROD00974;Ch;Bebidas;3,7
+PROD00975;Pasta de Dente;Higiene;15,92
+PROD00976;Caf;Alimentos;15,16
+PROD00977;Sabo em P;Limpeza;30,51
+PROD00978;Peixe;Produtos Frescos;14,71
+PROD00979;Refrigerante;Bebidas;11,65
+PROD00980;Esponja;Limpeza;18,72
+PROD00981;Desinfetante;Limpeza;26,47
+PROD00982;Pasta de Dente;Higiene;8,53
+PROD00983;Pasta de Dente;Higiene;16,96
+PROD00984;Shampoo;Higiene;7,44
+PROD00985;Cerveja;Bebidas;12,73
+PROD00986;gua Sanitria;Limpeza;47,22
+PROD00987;Banana;Produtos Frescos;36,64
+PROD00988;Peixe;Produtos Frescos;45,34
+PROD00989;Detergente;Limpeza;12,76
+PROD00990;Lustra Mveis;Limpeza;42,62
+PROD00991;Leite;Alimentos;7,22
+PROD00992;Detergente;Limpeza;48,67
+PROD00993;Feijo;Alimentos;7,72
+PROD00994;Sabo em P;Limpeza;11,44
+PROD00995;Sabonete;Higiene;12,56
+PROD00996;Peixe;Produtos Frescos;13,92
+PROD00997;Tomate;Produtos Frescos;33,7
+PROD00998;Batata;Produtos Frescos;19,63
+PROD00999;Tomate;Produtos Frescos;49,19
+PROD01000;Escova de Dente;Higiene;12,83
+PROD01001;Acar;Alimentos;3,67
+PROD01002;Desinfetante;Limpeza;31,81
+PROD01003;Caf;Alimentos;5,15
+PROD01004;Sabonete;Higiene;14,13
+PROD01005;Refrigerante;Bebidas;3,42
+PROD01006;gua Sanitria;Limpeza;35,21
+PROD01007;Detergente;Limpeza;38,9
+PROD01008;Caf Gelado;Bebidas;12,43
+PROD01009;Frango;Produtos Frescos;9,84
+PROD01010;Detergente;Limpeza;16,94
+PROD01011;Arroz;Alimentos;10
+PROD01012;Alface;Produtos Frescos;30,22
+PROD01013;Feijo;Alimentos;19,06
+PROD01014;Shampoo;Higiene;28,79
+PROD01015;leo;Alimentos;14,5
+PROD01016;Sabonete;Higiene;12,95
+PROD01017;Pasta de Dente;Higiene;21,68
+PROD01018;Desodorante;Higiene;19,87
+PROD01019;Feijo;Alimentos;3,39
+PROD01020;Cerveja;Bebidas;4,94
+PROD01021;Arroz;Alimentos;16,35
+PROD01022;Alface;Produtos Frescos;43,72
+PROD01023;Peixe;Produtos Frescos;20,32
+PROD01024;Biscoito;Alimentos;16,16
+PROD01025;Desinfetante;Limpeza;39,59
+PROD01026;Caf;Alimentos;18,51
+PROD01027;gua Sanitria;Limpeza;46,3
+PROD01028;Banana;Produtos Frescos;16,33
+PROD01029;Alface;Produtos Frescos;5,94
+PROD01030;Detergente;Limpeza;6,78
+PROD01031;Lustra Mveis;Limpeza;47,96
+PROD01032;Frango;Produtos Frescos;39,64
+PROD01033;Alface;Produtos Frescos;15,38
+PROD01034;Lustra Mveis;Limpeza;24,24
+PROD01035;Desinfetante;Limpeza;22,91
+PROD01036;Cerveja;Bebidas;10,45
+PROD01037;Tomate;Produtos Frescos;26,13
+PROD01038;Desinfetante;Limpeza;33,86
+PROD01039;Esponja;Limpeza;39,52
+PROD01040;Carne Bovina;Produtos Frescos;30,31
+PROD01041;Condicionador;Higiene;2,84
+PROD01042;Pasta de Dente;Higiene;20,39
+PROD01043;Refrigerante;Bebidas;3,48
+PROD01044;Esponja;Limpeza;34,37
+PROD01045;Carne Bovina;Produtos Frescos;48,34
+PROD01046;Suco;Bebidas;8,16
+PROD01047;Peixe;Produtos Frescos;15,81
+PROD01048;Desodorante;Higiene;18,47
+PROD01049;Sabo em P;Limpeza;18,5
+PROD01050;Batata;Produtos Frescos;6,61
+PROD01051;gua Mineral;Bebidas;3,85
+PROD01052;Alface;Produtos Frescos;41,75
+PROD01053;Sabo em P;Limpeza;6,68
+PROD01054;Refrigerante;Bebidas;4,33
+PROD01055;Vinho;Bebidas;6,94
+PROD01056;Batata;Produtos Frescos;46,68
+PROD01057;Ch;Bebidas;3,11
+PROD01058;Macarro;Alimentos;4,23
+PROD01059;Lustra Mveis;Limpeza;19,14
+PROD01060;Detergente;Limpeza;12,75
+PROD01061;Caf Gelado;Bebidas;12,73
+PROD01062;Escova de Dente;Higiene;24,03
+PROD01063;Frango;Produtos Frescos;25,46
+PROD01064;Batata;Produtos Frescos;40,75
+PROD01065;Caf;Alimentos;11,07
+PROD01066;Carne Bovina;Produtos Frescos;37,89
+PROD01067;Ch;Bebidas;5,84
+PROD01068;Frango;Produtos Frescos;30,28
+PROD01069;Sabonete;Higiene;25,31
+PROD01070;Condicionador;Higiene;19,29
+PROD01071;Shampoo;Higiene;11,8
+PROD01072;gua Mineral;Bebidas;13,18
+PROD01073;Lustra Mveis;Limpeza;42,95
+PROD01074;Sabo em P;Limpeza;49,99
+PROD01075;Peixe;Produtos Frescos;48,27
+PROD01076;Pasta de Dente;Higiene;18,86
+PROD01077;Energtico;Bebidas;11,63
+PROD01078;Ma;Produtos Frescos;24,01
+PROD01079;Frango;Produtos Frescos;6,61
+PROD01080;Leite;Alimentos;18,83
+PROD01081;Lustra Mveis;Limpeza;28,31
+PROD01082;Refrigerante;Bebidas;14,88
+PROD01083;Banana;Produtos Frescos;44,79
+PROD01084;Ma;Produtos Frescos;31,13
+PROD01085;Energtico;Bebidas;14,34
+PROD01086;Acar;Alimentos;9,67
+PROD01087;Caf;Alimentos;15,99
+PROD01088;Batata;Produtos Frescos;44,46
+PROD01089;Biscoito;Alimentos;12,1
+PROD01090;Sabo em P;Limpeza;10,04
+PROD01091;Desodorante;Higiene;22,63
+PROD01092;Batata;Produtos Frescos;7,57
+PROD01093;Caf;Alimentos;9,1
+PROD01094;Feijo;Alimentos;11,31
+PROD01095;Desodorante;Higiene;17,01
+PROD01096;gua Sanitria;Limpeza;22,3
+PROD01097;Suco;Bebidas;7,06
+PROD01098;Caf;Alimentos;7,12
+PROD01099;gua Mineral;Bebidas;9,74
+PROD01100;Pasta de Dente;Higiene;29,79
+PROD01101;Pasta de Dente;Higiene;7,28
+PROD01102;Desodorante;Higiene;5,88
+PROD01103;Biscoito;Alimentos;15,26
+PROD01104;Alface;Produtos Frescos;33,4
+PROD01105;Banana;Produtos Frescos;16,53
+PROD01106;Sabonete;Higiene;11,08
+PROD01107;Batata;Produtos Frescos;43,58
+PROD01108;Esponja;Limpeza;7,43
+PROD01109;Carne Bovina;Produtos Frescos;33,16
+PROD01110;Condicionador;Higiene;26,3
+PROD01111;Banana;Produtos Frescos;39,91
+PROD01112;Esponja;Limpeza;20,34
+PROD01113;Refrigerante;Bebidas;8,79
+PROD01114;Lustra Mveis;Limpeza;40,96
+PROD01115;Esponja;Limpeza;48,17
+PROD01116;Detergente;Limpeza;17,9
+PROD01117;Ma;Produtos Frescos;7,91
+PROD01118;Escova de Dente;Higiene;11,04
+PROD01119;Banana;Produtos Frescos;27,41
+PROD01120;Peixe;Produtos Frescos;5,1
+PROD01121;gua Sanitria;Limpeza;18,92
+PROD01122;Desinfetante;Limpeza;7,84
+PROD01123;Banana;Produtos Frescos;19,08
+PROD01124;Sabonete;Higiene;10,35
+PROD01125;Peixe;Produtos Frescos;8,39
+PROD01126;Sabo em P;Limpeza;33,01
+PROD01127;Escova de Dente;Higiene;23,43
+PROD01128;Detergente;Limpeza;5,61
+PROD01129;Pasta de Dente;Higiene;9,71
+PROD01130;Feijo;Alimentos;12,39
+PROD01131;Sabo em P;Limpeza;44,55
+PROD01132;Ch;Bebidas;9,9
+PROD01133;Detergente;Limpeza;27,53
+PROD01134;Caf;Alimentos;4,3
+PROD01135;Caf Gelado;Bebidas;3,05
+PROD01136;Energtico;Bebidas;6,62
+PROD01137;Cerveja;Bebidas;10,92
+PROD01138;Cerveja;Bebidas;5,02
+PROD01139;Condicionador;Higiene;25,19
+PROD01140;Biscoito;Alimentos;15,06
+PROD01141;Suco;Bebidas;13,51
+PROD01142;Carne Bovina;Produtos Frescos;22,45
+PROD01143;Tomate;Produtos Frescos;30,43
+PROD01144;Farinha;Alimentos;11,79
+PROD01145;Cerveja;Bebidas;10,77
+PROD01146;Esponja;Limpeza;17,71
+PROD01147;Lustra Mveis;Limpeza;35,23
+PROD01148;Suco;Bebidas;11,86
+PROD01149;Leite;Alimentos;17,14
+PROD01150;gua Sanitria;Limpeza;46,16
+PROD01151;Detergente;Limpeza;43,73
+PROD01152;Refrigerante;Bebidas;7,82
+PROD01153;Suco;Bebidas;9,79
+PROD01154;Peixe;Produtos Frescos;29,33
+PROD01155;Energtico;Bebidas;7,96
+PROD01156;Ch;Bebidas;7,6
+PROD01157;Cerveja;Bebidas;14,71
+PROD01158;Biscoito;Alimentos;19,14
+PROD01159;Sabo em P;Limpeza;18,5
+PROD01160;Batata;Produtos Frescos;48,71
+PROD01161;Refrigerante;Bebidas;13,16
+PROD01162;gua Mineral;Bebidas;8,18
+PROD01163;Sabonete;Higiene;7,05
+PROD01164;Tomate;Produtos Frescos;43,3
+PROD01165;Sabo em P;Limpeza;39,19
+PROD01166;Caf Gelado;Bebidas;8,98
+PROD01167;Banana;Produtos Frescos;8,36
+PROD01168;Arroz;Alimentos;13,85
+PROD01169;Frango;Produtos Frescos;23,05
+PROD01170;Arroz;Alimentos;12,87
+PROD01171;Arroz;Alimentos;11,58
+PROD01172;Energtico;Bebidas;5,92
+PROD01173;Frango;Produtos Frescos;43,29
+PROD01174;Suco;Bebidas;4,55
+PROD01175;Sabonete;Higiene;13,5
+PROD01176;Desinfetante;Limpeza;10,84
+PROD01177;Batata;Produtos Frescos;24,19
+PROD01178;Desodorante;Higiene;2,13
+PROD01179;Escova de Dente;Higiene;10,23
+PROD01180;Esponja;Limpeza;6,44
+PROD01181;Detergente;Limpeza;26,1
+PROD01182;Desodorante;Higiene;20,83
+PROD01183;Condicionador;Higiene;20,42
+PROD01184;Refrigerante;Bebidas;6,72
+PROD01185;Arroz;Alimentos;17,92
+PROD01186;Vinho;Bebidas;6,66
+PROD01187;Escova de Dente;Higiene;2,13
+PROD01188;gua Sanitria;Limpeza;19,37
+PROD01189;Lustra Mveis;Limpeza;41,12
+PROD01190;Banana;Produtos Frescos;17,62
+PROD01191;Carne Bovina;Produtos Frescos;28,18
+PROD01192;Sabonete;Higiene;10,01
+PROD01193;Sabo em P;Limpeza;29,68
+PROD01194;Acar;Alimentos;13,11
+PROD01195;Farinha;Alimentos;10,5
+PROD01196;Acar;Alimentos;4,28
+PROD01197;Sabonete;Higiene;9,85
+PROD01198;Feijo;Alimentos;17,93
+PROD01199;Vinho;Bebidas;2,87
+PROD01200;Carne Bovina;Produtos Frescos;11,59
+PROD01201;Frango;Produtos Frescos;28,12
+PROD01202;Sabo em P;Limpeza;10,7
+PROD01203;Biscoito;Alimentos;3,5
+PROD01204;Feijo;Alimentos;9,74
+PROD01205;Desodorante;Higiene;3,99
+PROD01206;Carne Bovina;Produtos Frescos;36,98
+PROD01207;Sabo em P;Limpeza;9,47
+PROD01208;Alface;Produtos Frescos;22,56
+PROD01209;Banana;Produtos Frescos;19,49
+PROD01210;Energtico;Bebidas;7,01
+PROD01211;Pasta de Dente;Higiene;15,77
+PROD01212;Banana;Produtos Frescos;38,56
+PROD01213;Escova de Dente;Higiene;12,24
+PROD01214;Escova de Dente;Higiene;15,03
+PROD01215;gua Sanitria;Limpeza;37,32
+PROD01216;Sabo em P;Limpeza;30,26
+PROD01217;Desinfetante;Limpeza;19
+PROD01218;Detergente;Limpeza;36,78
+PROD01219;Desinfetante;Limpeza;37,23
+PROD01220;Sabo em P;Limpeza;30,85
+PROD01221;Biscoito;Alimentos;12,34
+PROD01222;Acar;Alimentos;17,02
+PROD01223;Carne Bovina;Produtos Frescos;22,28
+PROD01224;Alface;Produtos Frescos;7,18
+PROD01225;Cerveja;Bebidas;7,56
+PROD01226;Desodorante;Higiene;28,84
+PROD01227;Leite;Alimentos;9,79
+PROD01228;Caf;Alimentos;11,47
+PROD01229;Carne Bovina;Produtos Frescos;18,9
+PROD01230;Banana;Produtos Frescos;27,22
+PROD01231;Sabo em P;Limpeza;36,79
+PROD01232;Escova de Dente;Higiene;26,39
+PROD01233;Banana;Produtos Frescos;44,72
+PROD01234;Caf Gelado;Bebidas;12,78
+PROD01235;Arroz;Alimentos;12,99
+PROD01236;Desodorante;Higiene;29,45
+PROD01237;Pasta de Dente;Higiene;8,71
+PROD01238;Acar;Alimentos;12,8
+PROD01239;Caf Gelado;Bebidas;2,62
+PROD01240;Macarro;Alimentos;5,15
+PROD01241;Desinfetante;Limpeza;14,52
+PROD01242;Desodorante;Higiene;6,94
+PROD01243;gua Sanitria;Limpeza;5,18
+PROD01244;Pasta de Dente;Higiene;28,93
+PROD01245;Caf Gelado;Bebidas;10,55
+PROD01246;Detergente;Limpeza;37,41
+PROD01247;Tomate;Produtos Frescos;21,17
+PROD01248;Batata;Produtos Frescos;11,66
+PROD01249;Desinfetante;Limpeza;46,94
+PROD01250;Desinfetante;Limpeza;46,94
