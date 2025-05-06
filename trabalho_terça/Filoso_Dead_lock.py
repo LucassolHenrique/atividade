@@ -1,16 +1,16 @@
 #Dead Lock
 
-import threading#permite criar execuções paralelas (cada filósofo é uma thread)
+import threading #permite criar execuções paralelas (cada filósofo é uma thread)
 import time #controla os tempos de pensar/comer
 
+# variaveis global
 # Lista com o nome dos filósofos
 nomes = ["Platão", "Aristóteles", "Sócrates", "Descartes", "Kant"]
-
-# Cria uma lista com 5 objetos Lock, representando os 5 garfos
+# Cria uma lista com 5 objetos Lock, represenando os 5 garfos
 garfos = [threading.Lock() for _ in range(5)]
-
 # Dicionário para contar quantas vezes cada filósofo comeu
 contador = {nome: 0 for nome in nomes}
+
 
 # Classe Filosofo que herda de Thread
 class Filosofo(threading.Thread):
